@@ -1,0 +1,3 @@
+/Users/chingan/Documents/Cpts122/PA8_DataAnalysisusingBinarySearchTrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chingan/Documents/Cpts122/PA8_DataAnalysisusingBinarySearchTrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chingan/Documents/Cpts122/PA8_DataAnalysisusingBinarySearchTrees/cmake-build-debug/CMakeFiles/PA8_DataAnalysisusingBinarySearchTrees.dir

@@ -2,6 +2,7 @@
 // Created by Ching-An Tsai on 09/04/2018.
 //
 
+#include <iostream>
 #include "Node.h"
 
 Node::Node(string str) {
@@ -12,7 +13,6 @@ Node::Node(string str) {
 }
 
 Node::~Node() {
-
 }
 
 void Node::setData(string str) {

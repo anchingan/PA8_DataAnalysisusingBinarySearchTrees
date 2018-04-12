@@ -1,6 +1,14 @@
 #include <iostream>
+#include "Node.h"
+#include "TransactionNode.h"
+#include "BST.h"
+#include "DataAnalysis.h"
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    DataAnalysis data;
+    data.runAnalysis();
+
     return 0;
 }
